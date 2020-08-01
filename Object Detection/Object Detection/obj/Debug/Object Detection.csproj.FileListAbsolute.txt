@@ -1,0 +1,21 @@
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\Object Detection.exe.config
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\Object Detection.exe
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\Object Detection.pdb
+C:\Users\mouss\Desktop\Object Detection\Object Detection\obj\Debug\Object Detection.csprojAssemblyReference.cache
+C:\Users\mouss\Desktop\Object Detection\Object Detection\obj\Debug\Object_Detection.Form1.resources
+C:\Users\mouss\Desktop\Object Detection\Object Detection\obj\Debug\Object_Detection.Properties.Resources.resources
+C:\Users\mouss\Desktop\Object Detection\Object Detection\obj\Debug\Object Detection.csproj.GenerateResource.cache
+C:\Users\mouss\Desktop\Object Detection\Object Detection\obj\Debug\Object Detection.csproj.CoreCompileInputs.cache
+C:\Users\mouss\Desktop\Object Detection\Object Detection\obj\Debug\Object Detection.exe
+C:\Users\mouss\Desktop\Object Detection\Object Detection\obj\Debug\Object Detection.pdb
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\yolov2-tiny-voc.cfg
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\yolov2-tiny-voc.weights
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\voc.names
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\Alturos.Yolo.dll
+C:\Users\mouss\Desktop\Object Detection\Object Detection\obj\Debug\Object Detection.csproj.CopyComplete
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\opencv_world411.dll
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\yolo_cpp_dll_cpu.dll
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\yolo_cpp_dll_gpu.dll
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\pthreadVC2.dll
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\pthreadGC2.dll
+C:\Users\mouss\Desktop\Object Detection\Object Detection\bin\Debug\msvcr100.dll
